@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file alias="map_grids">picture/grids.png</file>
+        <file>picture/Map_Chengdu.png</file>
+        <file>picture/ChengduMap.png</file>
+        <file>picture/taxi.png</file>
+    </qresource>
+    <qresource prefix="/map"/>
+    <qresource prefix="/chengduMap"/>
+</RCC>
