@@ -2,7 +2,7 @@
 
 After starting the program, the staring window will be presented like below.
 
-<img src="..\final_project\project picture\startingWindow.png" alt="startingWindow" style="zoom:50%;" />
+<img src=".\project picture\startingWindow.png" alt="startingWindow" style="zoom:50%;" />
 
 There are 3 push-buttons in the starting window,  push one of them to enter the corresponding mode.
 
@@ -10,15 +10,15 @@ There are 3 push-buttons in the starting window,  push one of them to enter the 
 
 After choosing this mode, a dialog like below will appear to let user choose the time period and the place to limit the information included in the mode.
 
-<img src="..\final_project\project picture\choiceDialog.png" alt="choiceDialog" style="zoom:50%;" />
+<img src=".\project picture\choiceDialog.png" alt="choiceDialog" style="zoom:50%;" />
 
 Both time and city information can only be selected through combo-box. Click "OK" to enter the loading process like below, the progress and which file is reading is shown. ***(The loading process may be a little slow,  please be patient!!)***
 
-<img src="..\final_project\project picture\loading.png" alt="loading" style="zoom:50%;" />
+<img src="\project picture\loading.png" alt="loading" style="zoom:50%;" />
 
 After the waiting of loading files, the chart-display window is presented.
 
-<img src="..\final_project\project picture\chartWindow.png" alt="chartWindow" style="zoom:50%;" />
+<img src=".\project picture\chartWindow.png" alt="chartWindow" style="zoom:50%;" />
 
 By clicking the tab label in <u>area 1</u> in the above picture, you can switch between different kinds of charts, including time inclination charts, grids distribution charts and data distribution charts. 
 
@@ -28,11 +28,11 @@ For special, after clicking the button in area 2 and 5, a dialog will open for t
 
 Time information can be changed by spin-box in dialog like this:
 
-<img src="..\final_project\project picture\timeChangeDialog.png" alt="timeChangeDialog" style="zoom:50%;" />
+<img src=".\project picture\timeChangeDialog.png" alt="timeChangeDialog" style="zoom:50%;" />
 
 and the grid information can be changed by radio-buttons in dialog like this:
 
-<img src="..\final_project\project picture\gridsChangingDialog.png" alt="gridsChangingDialog" style="zoom:50%;" />
+<img src=".\project picture\gridsChangingDialog.png" alt="gridsChangingDialog" style="zoom:50%;" />
 
 And by clicking the "back" button in area 8, you can go back to the staring window. ***Remind: the cancel button at the The top right corner doesn't share the same usage with "back" button, on clicking it, you are closing the whole project.***
 
@@ -40,7 +40,7 @@ And by clicking the "back" button in area 8, you can go back to the staring wind
 
 After choosing this mode, the program will also enter the loading progress like that in mode 1, and then display the thermal diagram window.
 
-<img src="..\final_project\project picture\thermalDiagram.png" alt="thermalDiagram" style="zoom:50%;" />
+<img src=".\project picture\thermalDiagram.png" alt="thermalDiagram" style="zoom:50%;" />
 
 Drag the slider in area 1 to change the time for diagram, and the time is displayed in area 2.
 
@@ -50,7 +50,7 @@ A back button to start page is also available in area 3.
 
 After choosing this part and waiting for load, the page for retrieve orders is showed:
 
-<img src="D:\GoodGoodStudyDayDayUp\DAERSHANG\problem solving\homework\final project\final_project\project picture\retrieveWindow.png" alt="retrieveWindow" style="zoom:50%;" />
+<img src=".\project picture\retrieveWindow.png" alt="retrieveWindow" style="zoom:50%;" />
 
 Click the radio buttons in area 1 to select standard(s), and modify them in area 2. Click the "select" button to start select. 
 
